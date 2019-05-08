@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1557316231 source:c:\users\alumno\desktop\nicolascapizparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funcion.h"
+
+1557316230 c:\users\alumno\desktop\nicolascapizparcial\funcion.h
+
+1557323752 source:c:\users\alumno\desktop\nicolascapizparcial\funcion.c
+	"funcion.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
