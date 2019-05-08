@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1557256061 source:c:\users\nicol\onedrive\escritorio\nicolas capiz parcial 1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funcion.h"
+
+1557276667 c:\users\nicol\onedrive\escritorio\nicolas capiz parcial 1a\funcion.h
+
+1557277048 source:c:\users\nicol\onedrive\escritorio\nicolas capiz parcial 1a\funcion.c
+	"funcion.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
